@@ -1,5 +1,9 @@
 # ANAYLYZING NUTRITIONS OF FOOD ON OPEN FOOD FATCS
-
+### Code for preprocessing - classification - clustering - association rules
+- preprocess [https://drive.google.com/file/d/1EjTg8f_7vb1-oxDHWLqXzPJW0TZR74ze/view?usp=sharing]
+- classification [https://colab.research.google.com/drive/1T_TKCv1L64EKTVWojP7kfqZR88vnwaJP?usp=sharing]
+- clustering [https://colab.research.google.com/drive/1irnzzzkUFBo9BXLJdAm6wVWy3LeIyBIh?usp=sharing]
+- association rules [https://colab.research.google.com/drive/1sdo6wbPs5iR62CR87vr8cxSbUt0w6rja?usp=sharing]
 ## Introduction
 This project analyze the nutriences among food by crawling data from OFF (Open Food Facts - an open web for users to post and upgrade related information of differents food consumed in reality.)
 
