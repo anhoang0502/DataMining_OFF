@@ -61,5 +61,4 @@ After download the required file (make sure all the files related to the project
 3. Run 'pip install -q -r requirements.txt' (download streamlit)
 4. Run 'streamlit run trang_chu.py'
 After entering the command, a local web page will be displayed.
-
-
+##Collaborator: @khanhngantranvn, @thilinnd
