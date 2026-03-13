@@ -1,9 +1,5 @@
 # ANAYLYZING NUTRITIONS OF FOOD ON OPEN FOOD FATCS
-### Code for preprocessing - classification - clustering - association rules
-- preprocess [https://drive.google.com/file/d/1EjTg8f_7vb1-oxDHWLqXzPJW0TZR74ze/view?usp=sharing]
-- classification [https://colab.research.google.com/drive/1T_TKCv1L64EKTVWojP7kfqZR88vnwaJP?usp=sharing]
-- clustering [https://colab.research.google.com/drive/1irnzzzkUFBo9BXLJdAm6wVWy3LeIyBIh?usp=sharing]
-- association rules [https://colab.research.google.com/drive/1sdo6wbPs5iR62CR87vr8cxSbUt0w6rja?usp=sharing]
+
 ## Introduction
 This project analyze the nutriences among food by crawling data from OFF (Open Food Facts - an open web for users to post and upgrade related information of differents food consumed in reality.)
 
@@ -14,6 +10,15 @@ The data is analyzed to use for three main goal:
 - Supervised Learning - using model (DecisionTree, RandomForest, XGBoost) to label Nutriscore and NutriRank to new type of food based on the information on the package provided by consumers in order to give users a clear recognition of that product to stay healthy by using it in the right way.
 - Unsupervised learning (KMeans) - define whether the information of nutriences on the package is reliable and the current trend of nutrient distribution in a food product on the market.
 - Association Rules (FP-Growth) - define how the way the product is produced related to its nutriences and how the distribution of nutriences relevant to its NutriScore -> provide knowledge to customers.
+
+## Dataset
+Data Source: Open Food Facts
+
+Website: [https://world.openfoodfacts.org/]
+Dữ liệu bao gồm:
+Create folder csv/ and download df_final (1).csv
+
+Drive: Bộ dữ liệu Open Food Facts [https://drive.google.com/drive/folders/1tcjd1UQjF6lB7EnyTZVZtTA2m6_z1Os-?usp=sharing]
 
 
 ## Demo
