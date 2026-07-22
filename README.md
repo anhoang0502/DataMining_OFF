@@ -18,7 +18,8 @@ Website: [https://world.openfoodfacts.org/]
 Dữ liệu bao gồm:
 Create folder csv/ and download df_final (1).csv
 
-Drive: Bộ dữ liệu Open Food Facts [https://drive.google.com/drive/folders/1tcjd1UQjF6lB7EnyTZVZtTA2m6_z1Os-?usp=sharing]
+Drive: Bộ dữ liệu Open Food Facts [https://drive.google.com/drive/folders/1Nl1DvJX3mt0WTcnwYldnLX0OisrMnoFh?usp=sharing]
+
 
 
 ## Demo
@@ -52,8 +53,8 @@ Drive: Bộ dữ liệu Open Food Facts [https://drive.google.com/drive/folders/
 
 ## Download Project
 Due to the limitation of upload file size on Github, this folder cannot upload the completed folder. Please click here to download: 
-- final data source: [https://drive.google.com/drive/folders/1tcjd1UQjF6lB7EnyTZVZtTA2m6_z1Os-?usp=sharing] -- The main file using for the preprocess process is df_final (1).csv, the others are original source from OFF.
-- models for labelling and clustering: [https://drive.google.com/drive/folders/12nRisvv17jOozLBJAxqiBHUJOYx_PwcN?usp=sharing] (classification) [https://drive.google.com/drive/folders/1n4aMRU1_fEg_WIxBhCIPMfEqaNxqPme_?usp=sharing] (clustering)
+- final data source: [https://drive.google.com/drive/folders/1Nl1DvJX3mt0WTcnwYldnLX0OisrMnoFh?usp=sharing] -- The main file using for the preprocess process is df_final (1).csv, the others are original source from OFF.
+- models for labelling and clustering: [classification.ipynb] (classification) [clustering.ipynb] (clustering)
 
 After download the required file (make sure all the files related to the project have been downloaded), following these steps to activate user interface:
 1. Extracted the zip folder
@@ -61,5 +62,3 @@ After download the required file (make sure all the files related to the project
 3. Run 'pip install -q -r requirements.txt' (download streamlit)
 4. Run 'streamlit run trang_chu.py'
 After entering the command, a local web page will be displayed.
-
-## Collaborator: @khanhngantranvn, @thilinnd
